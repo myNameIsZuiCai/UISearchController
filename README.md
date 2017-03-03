@@ -1,1 +1,1 @@
-# UISearchController
+UISearchController和UITableView结合使用，模拟手机通讯录搜索联系人效果。
